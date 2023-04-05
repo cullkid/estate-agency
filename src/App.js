@@ -1,13 +1,13 @@
-import { Route, Routes } from "react-router-dom";
-import HomePage from "./PAGES/home/HomePage";
-import SinglePropertyForSalePage from "./PAGES/property for sale single/SinglePropertyForSalePage";
-import FullPropertyListForSalePage from "./PAGES/property for sale/FullPropertyListForSalePage";
-import PropertyPage from "./PAGES/property/PropertyPage";
-import SellPage from "./PAGES/selling/SellPage";
-import Nav from "./REUSE COMPONENTS/navbar/Nav";
-import FullPropertyListForRentPage from "./PAGES/property for rent/FullPropertyForRentPage";
-import SinglePropertyForRentPage from "./PAGES/property for rent single/SinglePropertyForSalePage";
-import ContactPage from "./PAGES/Contact/ContactPage";
+import { Route, Routes } from 'react-router-dom';
+import HomePage from './PAGES/home/HomePage';
+import SinglePropertyForSalePage from './PAGES/property for sale single/SinglePropertyForSalePage';
+import FullPropertyListForSalePage from './PAGES/property for sale/FullPropertyListForSalePage';
+import PropertyPage from './PAGES/property/PropertyPage';
+import SellPage from './PAGES/selling/SellPage';
+import Nav from './REUSE COMPONENTS/navbar/Nav';
+import FullPropertyListForRentPage from './PAGES/property for rent/FullPropertyForRentPage';
+import SinglePropertyForRentPage from './PAGES/property for rent single/SinglePropertyForSalePage';
+import ContactPage from './PAGES/Contact/ContactPage';
 
 function App() {
   return (
